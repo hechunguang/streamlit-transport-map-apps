@@ -3,7 +3,3 @@ geopandas
 leafmap
 owslib
 streamlit
-folium
-streamlit-folium
-sumolib
-traci
