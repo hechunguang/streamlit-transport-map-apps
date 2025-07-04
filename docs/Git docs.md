@@ -1,18 +1,3 @@
-git remote set-url origin https://github.com/hechunguang/streamlit-transport-map-apps.git
-
-Git init
-
-git add .
-
-git commit -m "first commit"
-
-git branch -M main
-
-git remote add origin https://github.com/hechunguang/streamlit-transport-map-apps.git
-
-git push -u origin main
-
-
 
 本地代码发生改变后，如何更新GitHub，命令是什么
 
